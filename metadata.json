@@ -1,0 +1,6 @@
+{
+  "name": "Study Performance",
+  "description": "Student study performance calculator evaluating academic marks, attendance, assignments, quizzes, and recommending next actions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Study Performance</string>
+    <string name="app_title">Student Study Performance Calculator</string>
+    <string name="app_subtitle">Evaluate your overall academic standing and get tailored recommendations based on marks, attendance, assignments, and quizzes.</string>
+</resources>
